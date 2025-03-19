@@ -23,7 +23,7 @@ Criar um ecossistema de **ferramentas e linguagens inovadoras** que tornem o có
 
 ---
 
-## 🔧 Projetos e Produtos
+## 🔧 Produtos
 
 ### Suplicy Language
 
@@ -33,35 +33,20 @@ A principal criação da NyxCompany é a **linguagem de programação Suplicy**.
 - **Execução Ultra-Rápida**: Beneficiada pela utilização de **LuaJIT**.
 - **Fácil Integração**: Suporte a bibliotecas externas e integração com outras tecnologias.
 
-Você pode conhecer mais sobre **Suplicy** e seu código fonte no nosso repositório dedicado:
-
-[📦 Suplicy no GitHub](https://github.com/NyxCompany/Suplicy)
-
 ---
 
-## 🛠️ Como Contribuir
+## 📑 Licenciamento e Termos de Uso
 
-**A NyxCompany é uma organização open-source e colaborativa.** Se você está interessado em contribuir para o projeto Suplicy ou qualquer um dos nossos outros projetos, siga os passos abaixo para começar:
+Os produtos e tecnologias da **NyxCompany** não são open-source. Para detalhes sobre licenciamento, uso comercial ou acordos corporativos, entre em contato conosco diretamente.
 
-1. **Clone o repositório**:  
-   `git clone https://github.com/NyxCompany/Suplicy.git`
-   
-2. **Instale as dependências** (se aplicável):  
-   Siga as instruções no repositório de cada projeto para instalar as dependências necessárias.
-   
-3. **Faça suas alterações**:  
-   Realize melhorias, correções de bugs ou até adicione novas funcionalidades!
-
-4. **Crie um pull request**:  
-   Abra um pull request no GitHub e descreva as alterações feitas.
-
-🔗 **Leia as diretrizes de contribuição** nos repositórios para mais detalhes.
+- **Licenciamento**: Entre em contato com a nossa equipe para discutir acordos de licenciamento personalizados.
+- **Termos de Uso**: O uso de nossos produtos é regido pelos Termos de Serviço da NyxCompany.
 
 ---
 
 ## 💬 Entre em Contato
 
-Nós adoramos ouvir feedback! Se você tem alguma dúvida, sugestão ou quer apenas bater um papo sobre nossas tecnologias, nos mande uma mensagem!
+Nós adoramos ouvir feedback e estamos abertos a parcerias! Se você tem interesse em aprender mais sobre nossos produtos ou discutir soluções personalizadas para sua empresa, entre em contato:
 
 - **Email**: contato@nyxcompany.com
 - **Twitter**: [@NyxCompany](https://twitter.com/NyxCompany)
@@ -71,8 +56,8 @@ Nós adoramos ouvir feedback! Se você tem alguma dúvida, sugestão ou quer ape
 
 ## 🔗 Links Úteis
 
-- [Documentação do Suplicy](https://github.com/NyxCompany/Suplicy/wiki)
-- [Blog da NyxCompany](https://blog.nyxcompany.com)
+- [Documentação do Suplicy](https://github.com/NyxCompany/Suplicy/wiki)  
+- [Nosso Blog](https://blog.nyxcompany.com)  
 - [Nosso Fórum de Discussão](https://discuss.nyxcompany.com)
 
 ---
