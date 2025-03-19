@@ -47,7 +47,7 @@ Fique atento às atualizações do projeto! Vamos compartilhar o progresso em no
 
 ## 📅 Previsões de Lançamento
 
-Nosso objetivo é ter uma versão estável da linguagem **Suplicy** lançada dentro de [tempo estimado, ex: 6 meses], com todas as funcionalidades principais implementadas. Durante esse período, continuaremos a coletar feedback de nossos usuários para aprimorar a experiência.
+Nosso objetivo é ter uma versão estável da linguagem **Suplicy** lançada dentro de 6 meses, com todas as funcionalidades principais implementadas. Durante esse período, continuaremos a coletar feedback de nossos usuários para aprimorar a experiência.
 
 ---
 
