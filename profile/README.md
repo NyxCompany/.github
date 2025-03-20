@@ -25,7 +25,7 @@ Criar um ecossistema de **ferramentas e linguagens inovadoras** que tornem o có
 
 ## 🔧 Produtos
 
-### Suplicy Language
+### [Suplicy Language](DEVELOPMENT.md)
 
 A principal criação da NyxCompany é a **linguagem de programação Suplicy**. Criada com o objetivo de **simplificar a complexidade** de escrever código sem comprometer o desempenho, Suplicy oferece:
 
